@@ -1,0 +1,34 @@
+{
+    "restaurantes": [
+        {
+            "id": 1,
+            "nombre": "Pio pio",
+            "descripcion": "descripción pio pio",
+            "ubicacion": "calle 27 #3-3"
+        },
+        {
+            "id": 2,
+            "nombre": "La capital",
+            "descripcion": "descripción de la capital",
+            "ubicacion": "calle 14 #4-3"
+        },
+        {
+            "id": 3,
+            "nombre": "Fruty jugos",
+            "descripcion": "descripción frutty jugos",
+            "ubicacion": "calle 20 #2-3"
+        },
+        {
+            "id": 4,
+            "nombre": "Asadero calidad",
+            "descripcion": "descripción calidad",
+            "ubicacion": "calle 20 #2-3"
+        },
+        {
+            "id": 5,
+            "nombre": "cubo",
+            "descripcion": "descripción cubo comidas",
+            "ubicacion": "calle 20 #2-3"
+        }
+    ]
+}
